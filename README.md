@@ -1,1 +1,1 @@
-#This file contents about skills of Krishiv.
+# This file contents about skills of Krishiv.
